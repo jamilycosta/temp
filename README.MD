@@ -1,1 +1,1 @@
-## este é um proejtinho de git e estou aprendendo
+## Este é um projetinho de git e estou aprendendo
